@@ -1,5 +1,5 @@
 /*
-@param(int,int) number,number = 
+@param(int,int) number,number : given two numbers and we need to swap the numbers and print it 
 */
 
 exports.swapTwoNumbers = (firstNumber,secondNumber)=>{

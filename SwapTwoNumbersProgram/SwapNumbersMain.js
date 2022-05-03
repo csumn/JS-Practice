@@ -1,8 +1,6 @@
 /**
 Execution           : default node
-
 purpose             : To swap two numbers
-
 @description        : To Swap Two Numbers by taking user input
 @file               : SwapNumbersMain.js
 @version            : 1.0.0
